@@ -1,8 +1,7 @@
-package com.nphase.service;
+package com.nphase.task_1.service;
 
-import com.nphase.entity.ShoppingCart;
+import com.nphase.task_1.entity.ShoppingCart;
 
-import javax.naming.OperationNotSupportedException;
 import java.math.BigDecimal;
 
 public class ShoppingCartService {

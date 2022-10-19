@@ -1,4 +1,4 @@
-package com.nphase.entity;
+package com.nphase.task_1.entity;
 
 import java.util.List;
 
